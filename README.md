@@ -1,0 +1,1 @@
+Atividade de criação de um modelo simplificado de rede social com javascript.
